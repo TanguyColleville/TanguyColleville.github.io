@@ -1,21 +1,23 @@
 title: "Tanguy Colleville"
 description: "Quant Researcher | Statistical Arbitrage | Machine Learning"
-url: "https://TanguyColleville.github.io"
-theme: minima
+theme: minimal-mistakes-jekyll
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
-minima:
-  skin: auto
-  social_links:
-    github: Tanguy Colleville
-    linkedin: Tanguy Colleville
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - professional.md
+  - projects.md
 
-# Optional (for dark/light mode toggle)
-show_excerpts: false
+# Social links
+social:
+  - name: GitHub
+    url: https://github.com/yourusername
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/yourlinkedin
+  - name: Email
+    url: mailto:your.email@example.com
 
-author:
-  name: "Tanguy Colleville"
-  email: ""
+minimal_mistakes_skin: "dark"
+permalink: /:title/
