@@ -1,7 +1,10 @@
 title: "Tanguy Colleville"
 description: "Quant Researcher | Statistical Arbitrage | Machine Learning"
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 markdown: kramdown
+
+plugins:
+  - jekyll-include-cache
 
 # Navigation
 header_pages:
