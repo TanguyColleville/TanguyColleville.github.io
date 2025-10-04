@@ -1,14 +1,10 @@
 
-## 🧠 Side Projects
+## 🧠 Projects
 
-**1. Pair Trading Research Framework**  
-End-to-end pair trading library featuring rolling regressions, OU calibration, and advanced signal generation.
+**1. Plankton classification**  
+*This kaggle contest takes part in the **Deep Learning** courses 3MD4040 as evaluation. This challenge is about a images classification problem with **86 exclusive classes, strongly unbalanced with images of varying sizes**. We have to solve is a real problem that biologists are facing as plankton are strong indicators on the quality of the marine ecosystem.*
 
-**2. Portfolio Optimizer (Custom MVO)**  
-A full optimization suite for risk-adjusted allocation — supporting constraints, Bayesian blending, and volatility targeting.
+**2. Tweetoscope**  
+*This project aimed to predict tweet popularity by Hawkes process modelisation and Random Forest. All of it is based on fundamentals knowledge from SAE, Advanced C++, ML and statistical models. Learnt how to develop a strong CI/CD pipeline, by deploying project on Kubernetes leveraging docker, using test and regtests.*
 
-**3. Market Microstructure Simulator**  
-Almgren–Chriss-inspired execution simulator to study impact vs. slippage trade-offs.
 
-**4. Quant Blog (Coming soon)**  
-Occasional posts on strategy design, model robustness, and microstructure insights.

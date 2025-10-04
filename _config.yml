@@ -22,5 +22,7 @@ social:
   - name: Email
     url: mailto:your.email@example.com
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "neon"
 permalink: /:title/
+sass:
+  style: compressed
