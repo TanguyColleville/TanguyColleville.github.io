@@ -1,8 +1,11 @@
 ---
-layout: home
-title: "Quantitative Researcher"
+layout: single
+title: "Home"
+permalink: /
+author_profile: true
 ---
 
+---
 # 👋 Hi, I'm Tanguy Colleville
 
 I'm a **Quant Researcher** based in New York City, focusing on **Statistical Arbitrage**, **Machine Learning**, and **Systematic Trading**.  
